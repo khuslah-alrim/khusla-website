@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /login/
+Disallow: /register/
+Allow: /
+
+Sitemap: https://khuslah-ksa.com/sitemap.xml
